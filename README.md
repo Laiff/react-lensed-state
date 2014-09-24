@@ -31,10 +31,10 @@ var LensedExample = React.createClass({
       render: function() {
           return (
               <form>
-                  <input type="text" name="name" valueLink={this.linkState('model.user.name')} />
-                  <input type="text" name="email" valueLink={this.linkState('model.user.email')} />
-                  <input type="checkbox" name="notify-email" valueLink={this.linkState('model.notify.email')} />
-                  <input type="checkbox" name="notify-fb" valueLink={this.linkState('model.notify.fb')} />
+                  <input valueLink={this.linkState('model.user.name')} type="text" name="user-name" />
+                  <input valueLink={this.linkState('model.user.email')} type="text" name="user-email" />
+                  <input valueLink={this.linkState('model.notify.email')} type="checkbox" name="notify-email" />
+                  <input valueLink={this.linkState('model.notify.fb')} type="checkbox" name="notify-fb" />
              </form>
           );
       }
