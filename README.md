@@ -1,6 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/Laiff/react-lensed-state.png?branch=master)](https://travis-ci.org/Laiff/react-lensed-state)
-[![NPM version](https://badge.fury.io/js/react-lensed-state.png)](http://badge.fury.io/js/react-lensed-state)
-[![Dependencies Status](https://david-dm.org/Laiff/react-lensed-state.png)](https://david-dm.org/Laiff/react-lensed-state)
+[![Build Status](https://secure.travis-ci.org/Laiff/react-lensed-state.svg?branch=master)](https://travis-ci.org/Laiff/react-lensed-state)
+[![NPM version](https://badge.fury.io/js/react-lensed-state.svg)](http://badge.fury.io/js/react-lensed-state)
+[![Dependencies Status](https://david-dm.org/Laiff/react-lensed-state.svg?style=flat-square)](https://david-dm.org/Laiff/react-lensed-state)
 [![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
 
 react-lensed-state
