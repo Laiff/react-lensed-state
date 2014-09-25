@@ -47,3 +47,4 @@ environment, you can use [Browserify][]
 
     $ npm install react-lensed-state
 
+[![NPM](https://nodei.co/npm/react-lensed-state.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-lensed-state/)
