@@ -1,6 +1,6 @@
 {
   "name": "react-lensed-state",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mixin provided ReactLink with lensed attributes",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,9 @@
     "url": "https://github.com/Laiff/react-lensed-state/issues"
   },
   "dependencies": {
-    "data.lens": "0.0.2",
+    "data.lens": "0.0.3"
+  },
+  "peerDependencies" : {
     "react": "~0.11.2"
   },
   "engines": {
